@@ -12,4 +12,8 @@ I am a 15-year-old aspiring software engineer with a passion for building intell
 ---
 [![](https://visitcount.itsvg.in/api?id=omardawoud54&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🛠 Tech Stack:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode" />
+</p>
